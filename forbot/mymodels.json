@@ -97,7 +97,7 @@
           "scale": [40, 40, 40]
         }
       },
-      "type": "WALING_PET",
+      "type": "PET",
       "supportOptions": {
         "SWAP_X": {
           "location.x": true,
@@ -206,4 +206,5 @@
   "lootBoxes": []
 
 }
+
 
