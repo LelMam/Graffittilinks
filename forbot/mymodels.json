@@ -97,7 +97,7 @@
           "scale": [40, 40, 40]
         }
       },
-      "type": "PET",
+      "type": "FLYING_PET",
       "supportOptions": {
         "SWAP_X": {
           "location.x": true,
@@ -204,4 +204,5 @@
   "categories": [],
   "emotions": [],
   "lootBoxes": []
+
 }
