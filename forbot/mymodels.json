@@ -1,0 +1,207 @@
+{
+  "list": [
+  	    {
+      "id": "e7f3b8c2-4d1a-4f59-9b83-2c4f0f7de912",
+      "categoryId": "pets",
+      "apiGiveable": true,
+      "contributor": "Ogure4",
+      "name": "TRUMP",
+      "source": "url",
+      "sourceFormat": "bedrock",
+      "price": 149,
+      "availableInGui": false,
+      "isLimited": false,
+      "locationRotation": {
+        "normal": {
+          "location": [0.75, -0.1, 0],
+          "rotation": [0, 0, 0],
+          "scale": [0.032, 0.032, 0.032]
+        },
+        "gui": {
+          "location": [0, 0, 0],
+          "rotation": [0, 180, 0],
+          "scale": [40, 40, 40]
+        }
+      },
+      "type": "PET",
+      "supportOptions": {
+        "SWAP_X": {
+          "location.x": true,
+          "scale.x": true,
+          "rotate.yaw": true
+        }
+      },
+      "conflictGroups": [
+        "pet"
+      ],
+      "hash256": "c95cb3ccd0c05763d7a71bdfe4585591ca4546e5a027fda0e68e34851d5f9f75",
+      "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441488244519735296/c95cb3ccd0c05763d7a71bdfe4585591ca4546e5a027fda0e68e34851d5f9f75.model?ex=6921fa0b&is=6920a88b&hm=46908eb0dd2ab7b0fecc2bc0160f82bc44539d3716b8b629c772fd286cda46b1&"
+    },
+		    {
+      "id": "c1d5c451-f6e2-4ce4-bfbd-91de54a541eb",
+      "categoryId": "pets",
+      "apiGiveable": true,
+      "contributor": "Ogure4",
+      "name": "Scelet",
+      "source": "url",
+      "sourceFormat": "bedrock",
+      "price": 149,
+      "availableInGui": false,
+      "isLimited": false,
+      "locationRotation": {
+        "normal": {
+          "location": [0.75, -0.1, 0],
+          "rotation": [0, 0, 0],
+          "scale": [0.032, 0.032, 0.032]
+        },
+        "gui": {
+          "location": [0, 0, 0],
+          "rotation": [0, 180, 0],
+          "scale": [40, 40, 40]
+        }
+      },
+      "type": "PET",
+      "supportOptions": {
+        "SWAP_X": {
+          "location.x": true,
+          "scale.x": true,
+          "rotate.yaw": true
+        }
+      },
+      "conflictGroups": [
+        "pet"
+      ],
+      "hash256": "2de3908f9883f615a36388fb3712e589c7cc302b3f1249df4bae80f5d05d454d",
+      "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441497349095428126/2de3908f9883f615a36388fb3712e589c7cc302b3f1249df4bae80f5d05d454d.model?ex=69220285&is=6920b105&hm=c6d83011d47d8a0ddd23aac592403ce696aa3eb0f8983ee58aea0285231175a0&"
+    },
+			    {
+      "id": "35fbb434-93f1-4918-b17c-41d0d779683a",
+      "categoryId": "pets",
+      "apiGiveable": true,
+      "contributor": "Ogure4",
+      "name": "vedma",
+      "source": "url",
+      "sourceFormat": "bedrock",
+      "price": 149,
+      "availableInGui": false,
+      "isLimited": false,
+      "locationRotation": {
+        "normal": {
+          "location": [0.75, -0.1, 0],
+          "rotation": [0, 0, 0],
+          "scale": [0.032, 0.032, 0.032]
+        },
+        "gui": {
+          "location": [0, 0, 0],
+          "rotation": [0, 180, 0],
+          "scale": [40, 40, 40]
+        }
+      },
+      "type": "PET",
+      "supportOptions": {
+        "SWAP_X": {
+          "location.x": true,
+          "scale.x": true,
+          "rotate.yaw": true
+        }
+      },
+      "conflictGroups": [
+        "pet"
+      ],
+      "hash256": "149b60f7b37d1cf3b44a590e7c4c26a0375a8c8505ed170ba12454b065b72520",
+      "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441500509910597792/149b60f7b37d1cf3b44a590e7c4c26a0375a8c8505ed170ba12454b065b72520.model?ex=69220577&is=6920b3f7&hm=cfc8225d9328661752e4ae403d8ccd6c7d04c6c537406499e740d0255c2c4d07&"
+    },
+    {
+      "id": "ef9e32dc-3458-475c-92f3-a5b0b6af9da8",
+      "categoryId": "pets",
+      "apiGiveable": true,
+      "contributor": "Ogure4",
+      "name": "lodka",
+      "source": "url",
+      "sourceFormat": "bedrock",
+      "price": 149,
+      "availableInGui": true,
+      "isLimited": false,
+      "locationRotation": {
+        "normal": {
+          "location": [0.75, -0.1, 0],
+          "rotation": [0, 0, 0],
+          "scale": [0.032, 0.032, 0.032]
+        },
+        "gui": {
+          "location": [0, 0, 0],
+          "rotation": [0, 180, 0],
+          "scale": [40, 40, 40]
+        }
+      },
+      "type": "PET",
+      "supportOptions": {
+        "SWAP_X": {
+          "location.x": true,
+          "scale.x": true,
+          "rotate.yaw": true
+        }
+      },
+      "conflictGroups": [
+        "pet"
+      ],
+      "hash256": "a1b9b4b6186ab485e1e1099253987f58ba0b72a86f438017759574ba2a532883",
+      "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441503441158668408/a1b9b4b6186ab485e1e1099253987f58ba0b72a86f438017759574ba2a532883.model?ex=69220832&is=6920b6b2&hm=9bc6f82321842dbf9b77d6456fd9df2c8924f9fcc26bf38dbde73056e66a437e&"
+    }
+  ],
+  "graffities": {
+    "stickers": [
+	{
+  "contributor": "Ogure4",
+  "apiGiveable": true,
+  "availableInGui": false,
+  "perOnePurchase": 10,
+  "id": "e9ba4048-5403-49e5-ad9a-4186f5b12a03",
+  "frames": [
+    {
+      "atlas": 2,
+      "x": 0,
+      "y": 0,
+      "width": 640,
+      "height": 640
+    }
+        ]
+      },
+	  {
+  "contributor": "Ogure4",
+  "apiGiveable": true,
+  "availableInGui": false,
+  "perOnePurchase": 10,
+  "id": "b70c29b1-c64c-45ce-94c3-4cb299bbf5dd",
+  "frames": [
+    {
+      "atlas": 3,
+      "x": 0,
+      "y": 0,
+      "width": 1024,
+      "height": 1024
+    }
+        ]
+      }
+    ],
+    "atlas": [
+      {
+        "id": 3,
+        "width": 1024,
+        "height": 1024,
+        "hash": "93253982a3456ad0296745d53d23c287033502e70ed158b04736d487af88e58b",
+        "url": "https://lelmam.github.io/Graffittilinks/forbot/93253982a3456ad0296745d53d23c287033502e70ed158b04736d487af88e58b.png"
+      },
+	  {
+        "id": 2,
+        "width": 640,
+        "height": 640,
+        "hash": "2890a8709403b442909ef8da8940a4802f00c4041e1c27cff0af2bb01fd65f73",
+        "url": "https://lelmam.github.io/Graffittilinks/forbot/2890a8709403b442909ef8da8940a4802f00c4041e1c27cff0af2bb01fd65f73.png"
+      }
+    ]
+  },
+  "categories": [],
+  "emotions": [],
+  "lootBoxes": []
+}
