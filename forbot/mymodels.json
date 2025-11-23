@@ -111,6 +111,43 @@
       "hash256": "6a0d981ab1a477ac3a5e96c33bb2e4b56fe5431f18899790708fc3481e7b3629",
       "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/6a0d981ab1a477ac3a5e96c33bb2e4b56fe5431f18899790708fc3481e7b3629.model"
     },
+	  	  	    	    {
+      "id": "c735ddb2-ea82-4fa5-964f-cb8f7400a3c7",
+      "categoryId": "pets",
+      "apiGiveable": true,
+      "contributor": "Ogure4",
+      "name": "Анубис",
+      "source": "url",
+      "sourceFormat": "bedrock",
+      "price": 149,
+      "availableInGui": false,
+      "isLimited": false,
+      "locationRotation": {
+        "normal": {
+          "location": [0.75, -0.1, 0],
+          "rotation": [0, 0, 0],
+          "scale": [0.01, 0.01, 0.01]
+        },
+        "gui": {
+          "location": [0, 0, 0],
+          "rotation": [0, 180, 0],
+          "scale": [40, 40, 40]
+        }
+      },
+      "type": "PET",
+      "supportOptions": {
+        "SWAP_X": {
+          "location.x": true,
+          "scale.x": true,
+          "rotate.yaw": true
+        }
+      },
+      "conflictGroups": [
+        "pet"
+      ],
+      "hash256": "eddfdee871f275e0f0f0a834b4c86aeb9e89cb954ef82a44132e2ea02b453b03",
+      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/eddfdee871f275e0f0f0a834b4c86aeb9e89cb954ef82a44132e2ea02b453b03.model"
+    },
 		    {
       "id": "c1d5c451-f6e2-4ce4-bfbd-91de54a541eb",
       "categoryId": "pets",
@@ -280,6 +317,7 @@
   "lootBoxes": []
 
 }
+
 
 
 
