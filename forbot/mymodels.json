@@ -108,8 +108,8 @@
       "conflictGroups": [
         "pet"
       ],
-      "hash256": "15b34b7d467cf9f7a4b0eb7d824670eca3ff7cfbf0bd78382e74fe573b45f35a",
-      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/15b34b7d467cf9f7a4b0eb7d824670eca3ff7cfbf0bd78382e74fe573b45f35a.model"
+      "hash256": "6a0d981ab1a477ac3a5e96c33bb2e4b56fe5431f18899790708fc3481e7b3629",
+      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/6a0d981ab1a477ac3a5e96c33bb2e4b56fe5431f18899790708fc3481e7b3629.model"
     },
 		    {
       "id": "c1d5c451-f6e2-4ce4-bfbd-91de54a541eb",
@@ -280,6 +280,7 @@
   "lootBoxes": []
 
 }
+
 
 
 
