@@ -272,9 +272,9 @@
       "isLimited": false,
       "locationRotation": {
         "normal": {
-          "location": [0.75, -0.1, 0],
+          "location": [0.75, 0, 0],
           "rotation": [0, 0, 0],
-          "scale": [0.032, 0.032, 0.032]
+          "scale": [0.009,0.009,0.009]
         },
         "gui": {
           "location": [0, 0, 0],
@@ -428,6 +428,7 @@
   "lootBoxes": []
 
 }
+
 
 
 
