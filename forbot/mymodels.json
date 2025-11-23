@@ -148,6 +148,43 @@
       "hash256": "2434ae6511bd94a8a8f2302b43e3446acab199ab5bc916523a412430e397f739",
       "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/2434ae6511bd94a8a8f2302b43e3446acab199ab5bc916523a412430e397f739.model"
     },
+	  	  	  	    	    {
+      "id": "11534d9a-5eaf-4184-8805-c9e40f87d62f",
+      "categoryId": "pets",
+      "apiGiveable": true,
+      "contributor": "Ogure4",
+      "name": "Синий скелет",
+      "source": "url",
+      "sourceFormat": "bedrock",
+      "price": 149,
+      "availableInGui": false,
+      "isLimited": false,
+      "locationRotation": {
+        "normal": {
+          "location": [0.75, -0.1, 0],
+          "rotation": [0, 0, 0],
+          "scale": [0.01, 0.01, 0.01]
+        },
+        "gui": {
+          "location": [0, 0, 0],
+          "rotation": [0, 180, 0],
+          "scale": [40, 40, 40]
+        }
+      },
+      "type": "PET",
+      "supportOptions": {
+        "SWAP_X": {
+          "location.x": true,
+          "scale.x": true,
+          "rotate.yaw": true
+        }
+      },
+      "conflictGroups": [
+        "pet"
+      ],
+      "hash256": "a4a12a44446cd4f85b71a143a2862957644e3b46d9bc24d7520f79f2e7760ad2",
+      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/a4a12a44446cd4f85b71a143a2862957644e3b46d9bc24d7520f79f2e7760ad2.model"
+    },
 		    {
       "id": "c1d5c451-f6e2-4ce4-bfbd-91de54a541eb",
       "categoryId": "pets",
@@ -317,6 +354,7 @@
   "lootBoxes": []
 
 }
+
 
 
 
