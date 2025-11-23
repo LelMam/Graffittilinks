@@ -75,6 +75,43 @@
       "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/3f1000ea36294aea4abc0a3f3fd14ea4586d41e6bbff19315344c65c2aa0369b.model"
     },
 	  	    	    {
+      "id": "c85cfbf8-8c7a-4506-892f-f9741f03fe63",
+      "categoryId": "pets",
+      "apiGiveable": true,
+      "contributor": "Ogure4",
+      "name": "Смерть.",
+      "source": "url",
+      "sourceFormat": "bedrock",
+      "price": 149,
+      "availableInGui": false,
+      "isLimited": false,
+      "locationRotation": {
+        "normal": {
+          "location": [0.75, -0.1, 0],
+          "rotation": [0, 0, 0],
+          "scale": [0.01, 0.01, 0.01]
+        },
+        "gui": {
+          "location": [0, 0, 0],
+          "rotation": [0, 180, 0],
+          "scale": [40, 40, 40]
+        }
+      },
+      "type": "PET",
+      "supportOptions": {
+        "SWAP_X": {
+          "location.x": true,
+          "scale.x": true,
+          "rotate.yaw": true
+        }
+      },
+      "conflictGroups": [
+        "pet"
+      ],
+      "hash256": "09c3e9b3d2204acc723f8cb62df87b354fdffabfd60ec9f23248e9233d25ebf7",
+      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/09c3e9b3d2204acc723f8cb62df87b354fdffabfd60ec9f23248e9233d25ebf7.model"
+    },
+	  	    	    {
       "id": "1ece907b-322b-482b-8931-95b88352981c",
       "categoryId": "pets",
       "apiGiveable": true,
@@ -465,6 +502,7 @@
   "lootBoxes": []
 
 }
+
 
 
 
