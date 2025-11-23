@@ -296,6 +296,43 @@
       "hash256": "9ca0dd35ccaf0b48981db3a32b2456835436d468cf641ab41888833bbe15f32d",
       "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/9ca0dd35ccaf0b48981db3a32b2456835436d468cf641ab41888833bbe15f32d.model"
     },
+	  		    {
+      "id": "10f8ba7f-35e1-4dd4-87ff-7a1edd53ecb4",
+      "categoryId": "pets",
+      "apiGiveable": true,
+      "contributor": "Ogure4",
+      "name": "Мопс",
+      "source": "url",
+      "sourceFormat": "bedrock",
+      "price": 149,
+      "availableInGui": false,
+      "isLimited": false,
+      "locationRotation": {
+        "normal": {
+          "location": [0.75, 0, 0],
+          "rotation": [0, 0, 0],
+          "scale": [0.009,0.009,0.009]
+        },
+        "gui": {
+          "location": [0, 0, 0],
+          "rotation": [0, 180, 0],
+          "scale": [40, 40, 40]
+        }
+      },
+      "type": "PET",
+      "supportOptions": {
+        "SWAP_X": {
+          "location.x": true,
+          "scale.x": true,
+          "rotate.yaw": true
+        }
+      },
+      "conflictGroups": [
+        "pet"
+      ],
+      "hash256": "7df6cfd49c0f4c5fd37450c424c19f8dde24238160b89c886e8493352ef6757c",
+      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/7df6cfd49c0f4c5fd37450c424c19f8dde24238160b89c886e8493352ef6757c.model"
+    },
 			    {
       "id": "35fbb434-93f1-4918-b17c-41d0d779683a",
       "categoryId": "pets",
@@ -428,6 +465,7 @@
   "lootBoxes": []
 
 }
+
 
 
 
