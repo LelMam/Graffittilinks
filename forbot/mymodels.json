@@ -79,7 +79,7 @@
       "categoryId": "pets",
       "apiGiveable": true,
       "contributor": "Ogure4",
-      "name": "Дракончик",
+      "name": "Огненный дракон",
       "source": "url",
       "sourceFormat": "bedrock",
       "price": 149,
@@ -147,6 +147,43 @@
       ],
       "hash256": "2434ae6511bd94a8a8f2302b43e3446acab199ab5bc916523a412430e397f739",
       "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/2434ae6511bd94a8a8f2302b43e3446acab199ab5bc916523a412430e397f739.model"
+    },
+	  	  	  	    	    {
+      "id": "bb9da646-1a22-48d7-a201-338892effe58",
+      "categoryId": "pets",
+      "apiGiveable": true,
+      "contributor": "Ogure4",
+      "name": "Ночная бабочка",
+      "source": "url",
+      "sourceFormat": "bedrock",
+      "price": 149,
+      "availableInGui": false,
+      "isLimited": false,
+      "locationRotation": {
+        "normal": {
+          "location": [0.75, -0.1, 0],
+          "rotation": [0, 0, 0],
+          "scale": [0.01, 0.01, 0.01]
+        },
+        "gui": {
+          "location": [0, 0, 0],
+          "rotation": [0, 180, 0],
+          "scale": [40, 40, 40]
+        }
+      },
+      "type": "PET",
+      "supportOptions": {
+        "SWAP_X": {
+          "location.x": true,
+          "scale.x": true,
+          "rotate.yaw": true
+        }
+      },
+      "conflictGroups": [
+        "pet"
+      ],
+      "hash256": "0356296ac8a9ee6b395860a3451a2f557ec8c966cad5fd1af431504e15d24d7b",
+      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/0356296ac8a9ee6b395860a3451a2f557ec8c966cad5fd1af431504e15d24d7b.model"
     },
 	  	  	  	    	    {
       "id": "11534d9a-5eaf-4184-8805-c9e40f87d62f",
@@ -354,6 +391,7 @@
   "lootBoxes": []
 
 }
+
 
 
 
