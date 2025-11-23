@@ -153,7 +153,7 @@
       "categoryId": "pets",
       "apiGiveable": true,
       "contributor": "Ogure4",
-      "name": "Ночная бабочка",
+      "name": "Монстр какой-т",
       "source": "url",
       "sourceFormat": "bedrock",
       "price": 149,
@@ -182,8 +182,45 @@
       "conflictGroups": [
         "pet"
       ],
-      "hash256": "0356296ac8a9ee6b395860a3451a2f557ec8c966cad5fd1af431504e15d24d7b",
-      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/0356296ac8a9ee6b395860a3451a2f557ec8c966cad5fd1af431504e15d24d7b.model"
+      "hash256": "fe82004120434c8c170e692f0d03004c041b7df8bb4fe37133c7d284739a3b2f",
+      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/fe82004120434c8c170e692f0d03004c041b7df8bb4fe37133c7d284739a3b2f.model"
+    },
+	  	  	  	  	    	    {
+      "id": "ec39c3d1-40c4-4bca-ab26-ebd51c4f64e1",
+      "categoryId": "pets",
+      "apiGiveable": true,
+      "contributor": "Ogure4",
+      "name": "Летающий шар",
+      "source": "url",
+      "sourceFormat": "bedrock",
+      "price": 149,
+      "availableInGui": false,
+      "isLimited": false,
+      "locationRotation": {
+        "normal": {
+          "location": [0.75, -0.1, 0],
+          "rotation": [0, 0, 0],
+          "scale": [0.01, 0.01, 0.01]
+        },
+        "gui": {
+          "location": [0, 0, 0],
+          "rotation": [0, 180, 0],
+          "scale": [40, 40, 40]
+        }
+      },
+      "type": "PET",
+      "supportOptions": {
+        "SWAP_X": {
+          "location.x": true,
+          "scale.x": true,
+          "rotate.yaw": true
+        }
+      },
+      "conflictGroups": [
+        "pet"
+      ],
+      "hash256": "8c2a09c47e586bfcd3a5fdfdcb18f003bc7d0f247a4586e1f3b79c02df8144be",
+      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/8c2a09c47e586bfcd3a5fdfdcb18f003bc7d0f247a4586e1f3b79c02df8144be.model"
     },
 	  	  	  	    	    {
       "id": "11534d9a-5eaf-4184-8805-c9e40f87d62f",
@@ -391,6 +428,7 @@
   "lootBoxes": []
 
 }
+
 
 
 
