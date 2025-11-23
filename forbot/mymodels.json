@@ -264,7 +264,7 @@
       "categoryId": "pets",
       "apiGiveable": true,
       "contributor": "Ogure4",
-      "name": "Scelet",
+      "name": "Церберус",
       "source": "url",
       "sourceFormat": "bedrock",
       "price": 149,
@@ -293,8 +293,8 @@
       "conflictGroups": [
         "pet"
       ],
-      "hash256": "2de3908f9883f615a36388fb3712e589c7cc302b3f1249df4bae80f5d05d454d",
-      "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441497349095428126/2de3908f9883f615a36388fb3712e589c7cc302b3f1249df4bae80f5d05d454d.model?ex=69220285&is=6920b105&hm=c6d83011d47d8a0ddd23aac592403ce696aa3eb0f8983ee58aea0285231175a0&"
+      "hash256": "1a1ac711b5c335a7dffb2a79a5c7d7e40d5bf69d6659b01fbbb7efba6cb5302f",
+      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/1a1ac711b5c335a7dffb2a79a5c7d7e40d5bf69d6659b01fbbb7efba6cb5302f.model"
     },
 			    {
       "id": "35fbb434-93f1-4918-b17c-41d0d779683a",
@@ -428,6 +428,7 @@
   "lootBoxes": []
 
 }
+
 
 
 
