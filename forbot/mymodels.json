@@ -793,7 +793,6 @@
             "hash256": "b54fd9186ac233eabec178b375cb3f77064a4bc53ad00ed6ae842641f4c816fc",
             "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/b54fd9186ac233eabec178b375cb3f77064a4bc53ad00ed6ae842641f4c816fc.model"
         },
-
         {
             "id": "0c416a4c-9fec-414b-adf5-8cc40f1cad13",
             "categoryId": "pets",
@@ -915,6 +914,67 @@
             ],
             "hash256": "b99bd9a4ea93bacd8a02275ff0b3267c0b545568bef12490900d1edbb97df3cf",
             "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/b99bd9a4ea93bacd8a02275ff0b3267c0b545568bef12490900d1edbb97df3cf.model"
+        },
+        {
+            "id": "c77319e4-df01-4738-bb1f-ff2092c33a37",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Лавовый голем",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "89287bed5291226faacd806780201d16784e351b89e483050a38547a85d3678d",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/89287bed5291226faacd806780201d16784e351b89e483050a38547a85d3678d.model"
         }
     ],
     "graffities": {
