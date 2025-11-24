@@ -914,6 +914,67 @@
             ],
             "hash256": "bce53382e070e83329d143ad0924bbfa498c5727f5c313b9c1c26bc070b1bb82",
             "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/bce53382e070e83329d143ad0924bbfa498c5727f5c313b9c1c26bc070b1bb82.model"
+        },
+        {
+            "id": "174a1a31-3d51-4319-a54b-8c4117636f97",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Лавовый голем",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "6a528c46eafb746977ca71680d5f653a2ed0ca6230f76564636221af2692019f",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/6a528c46eafb746977ca71680d5f653a2ed0ca6230f76564636221af2692019f.model"
         }
     ],
     "graffities": {
