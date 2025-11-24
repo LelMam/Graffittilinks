@@ -732,67 +732,7 @@
             "hash256": "a1b9b4b6186ab485e1e1099253987f58ba0b72a86f438017759574ba2a532883",
             "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441503441158668408/a1b9b4b6186ab485e1e1099253987f58ba0b72a86f438017759574ba2a532883.model?ex=69220832&is=6920b6b2&hm=9bc6f82321842dbf9b77d6456fd9df2c8924f9fcc26bf38dbde73056e66a437e&"
         },
-        {
-            "id": "c185471b-52bb-411f-b903-1d73ad69a590",
-            "categoryId": "pets",
-            "apiGiveable": true,
-            "contributor": "Ogure4",
-            "name": "Тор",
-            "source": "url",
-            "sourceFormat": "bedrock",
-            "price": 149,
-            "availableInGui": false,
-            "isLimited": false,
-            "locationRotation": {
-                "normal": {
-                    "location": [
-                        0.75,
-                        -0.1,
-                        0
-                    ],
-                    "rotation": [
-                        0,
-                        0,
-                        0
-                    ],
-                    "scale": [
-                        0.01,
-                        0.01,
-                        0.01
-                    ]
-                },
-                "gui": {
-                    "location": [
-                        0,
-                        0,
-                        0
-                    ],
-                    "rotation": [
-                        0,
-                        180,
-                        0
-                    ],
-                    "scale": [
-                        40,
-                        40,
-                        40
-                    ]
-                }
-            },
-            "type": "PET",
-            "supportOptions": {
-                "SWAP_X": {
-                    "location.x": true,
-                    "scale.x": true,
-                    "rotate.yaw": true
-                }
-            },
-            "conflictGroups": [
-                "pet"
-            ],
-            "hash256": "16b0e7797abcfef74e257446c3f4952f2dc71ff2206c6c431cecba04d5f220ff",
-            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/16b0e7797abcfef74e257446c3f4952f2dc71ff2206c6c431cecba04d5f220ff.model"
-        },
+
         {
             "id": "7bc69e2d-c245-4b64-a833-6753934064e6",
             "categoryId": "pets",
