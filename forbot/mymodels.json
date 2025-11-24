@@ -792,6 +792,67 @@
             ],
             "hash256": "16b0e7797abcfef74e257446c3f4952f2dc71ff2206c6c431cecba04d5f220ff",
             "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/16b0e7797abcfef74e257446c3f4952f2dc71ff2206c6c431cecba04d5f220ff.model"
+        },
+        {
+            "id": "7bc69e2d-c245-4b64-a833-6753934064e6",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Пиглин в клетке",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 999,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "b54fd9186ac233eabec178b375cb3f77064a4bc53ad00ed6ae842641f4c816fc",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/b54fd9186ac233eabec178b375cb3f77064a4bc53ad00ed6ae842641f4c816fc.model"
         }
     ],
     "graffities": {
