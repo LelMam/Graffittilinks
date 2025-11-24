@@ -1,522 +1,852 @@
 {
-  "list": [
-  	    {
-      "id": "e7f3b8c2-4d1a-4f59-9b83-2c4f0f7de912",
-      "categoryId": "pets",
-      "apiGiveable": true,
-      "contributor": "Ogure4",
-      "name": "TRUMP",
-      "source": "url",
-      "sourceFormat": "bedrock",
-      "price": 149,
-      "availableInGui": false,
-      "isLimited": false,
-      "locationRotation": {
-        "normal": {
-          "location": [0.75, -0.1, 0],
-          "rotation": [0, 0, 0],
-          "scale": [0.032, 0.032, 0.032]
+    "list": [
+        {
+            "id": "e7f3b8c2-4d1a-4f59-9b83-2c4f0f7de912",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "TRUMP",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.032,
+                        0.032,
+                        0.032
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "c95cb3ccd0c05763d7a71bdfe4585591ca4546e5a027fda0e68e34851d5f9f75",
+            "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441488244519735296/c95cb3ccd0c05763d7a71bdfe4585591ca4546e5a027fda0e68e34851d5f9f75.model?ex=6921fa0b&is=6920a88b&hm=46908eb0dd2ab7b0fecc2bc0160f82bc44539d3716b8b629c772fd286cda46b1&"
         },
-        "gui": {
-          "location": [0, 0, 0],
-          "rotation": [0, 180, 0],
-          "scale": [40, 40, 40]
-        }
-      },
-      "type": "PET",
-      "supportOptions": {
-        "SWAP_X": {
-          "location.x": true,
-          "scale.x": true,
-          "rotate.yaw": true
-        }
-      },
-      "conflictGroups": [
-        "pet"
-      ],
-      "hash256": "c95cb3ccd0c05763d7a71bdfe4585591ca4546e5a027fda0e68e34851d5f9f75",
-      "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441488244519735296/c95cb3ccd0c05763d7a71bdfe4585591ca4546e5a027fda0e68e34851d5f9f75.model?ex=6921fa0b&is=6920a88b&hm=46908eb0dd2ab7b0fecc2bc0160f82bc44539d3716b8b629c772fd286cda46b1&"
-    },
-	    	    {
-      "id": "069e88ac-432b-4396-b324-a96b2690f7e3",
-      "categoryId": "pets",
-      "apiGiveable": true,
-      "contributor": "Ogure4",
-      "name": "Krutoi",
-      "source": "url",
-      "sourceFormat": "bedrock",
-      "price": 149,
-      "availableInGui": false,
-      "isLimited": false,
-      "locationRotation": {
-        "normal": {
-          "location": [0.75, -0.1, 0],
-          "rotation": [0, 0, 0],
-          "scale": [0.01, 0.01, 0.01]
+        {
+            "id": "069e88ac-432b-4396-b324-a96b2690f7e3",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Krutoi",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "3f1000ea36294aea4abc0a3f3fd14ea4586d41e6bbff19315344c65c2aa0369b",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/3f1000ea36294aea4abc0a3f3fd14ea4586d41e6bbff19315344c65c2aa0369b.model"
         },
-        "gui": {
-          "location": [0, 0, 0],
-          "rotation": [0, 180, 0],
-          "scale": [40, 40, 40]
-        }
-      },
-      "type": "PET",
-      "supportOptions": {
-        "SWAP_X": {
-          "location.x": true,
-          "scale.x": true,
-          "rotate.yaw": true
-        }
-      },
-      "conflictGroups": [
-        "pet"
-      ],
-      "hash256": "3f1000ea36294aea4abc0a3f3fd14ea4586d41e6bbff19315344c65c2aa0369b",
-      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/3f1000ea36294aea4abc0a3f3fd14ea4586d41e6bbff19315344c65c2aa0369b.model"
-    },
-	  	    	    {
-      "id": "c85cfbf8-8c7a-4506-892f-f9741f03fe63",
-      "categoryId": "pets",
-      "apiGiveable": true,
-      "contributor": "Ogure4",
-      "name": "Смерть.",
-      "source": "url",
-      "sourceFormat": "bedrock",
-      "price": 149,
-      "availableInGui": false,
-      "isLimited": false,
-      "locationRotation": {
-        "normal": {
-          "location": [0.75, -0.1, 0],
-          "rotation": [0, 0, 0],
-          "scale": [0.01, 0.01, 0.01]
+        {
+            "id": "c85cfbf8-8c7a-4506-892f-f9741f03fe63",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Смерть.",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "09c3e9b3d2204acc723f8cb62df87b354fdffabfd60ec9f23248e9233d25ebf7",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/09c3e9b3d2204acc723f8cb62df87b354fdffabfd60ec9f23248e9233d25ebf7.model"
         },
-        "gui": {
-          "location": [0, 0, 0],
-          "rotation": [0, 180, 0],
-          "scale": [40, 40, 40]
-        }
-      },
-      "type": "PET",
-      "supportOptions": {
-        "SWAP_X": {
-          "location.x": true,
-          "scale.x": true,
-          "rotate.yaw": true
-        }
-      },
-      "conflictGroups": [
-        "pet"
-      ],
-      "hash256": "09c3e9b3d2204acc723f8cb62df87b354fdffabfd60ec9f23248e9233d25ebf7",
-      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/09c3e9b3d2204acc723f8cb62df87b354fdffabfd60ec9f23248e9233d25ebf7.model"
-    },
-	  	    	    {
-      "id": "1ece907b-322b-482b-8931-95b88352981c",
-      "categoryId": "pets",
-      "apiGiveable": true,
-      "contributor": "Ogure4",
-      "name": "Огненный дракон",
-      "source": "url",
-      "sourceFormat": "bedrock",
-      "price": 149,
-      "availableInGui": false,
-      "isLimited": false,
-      "locationRotation": {
-        "normal": {
-          "location": [0.75, -0.1, 0],
-          "rotation": [0, 0, 0],
-          "scale": [0.01, 0.01, 0.01]
+        {
+            "id": "1ece907b-322b-482b-8931-95b88352981c",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Огненный дракон",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "6a0d981ab1a477ac3a5e96c33bb2e4b56fe5431f18899790708fc3481e7b3629",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/6a0d981ab1a477ac3a5e96c33bb2e4b56fe5431f18899790708fc3481e7b3629.model"
         },
-        "gui": {
-          "location": [0, 0, 0],
-          "rotation": [0, 180, 0],
-          "scale": [40, 40, 40]
-        }
-      },
-      "type": "PET",
-      "supportOptions": {
-        "SWAP_X": {
-          "location.x": true,
-          "scale.x": true,
-          "rotate.yaw": true
-        }
-      },
-      "conflictGroups": [
-        "pet"
-      ],
-      "hash256": "6a0d981ab1a477ac3a5e96c33bb2e4b56fe5431f18899790708fc3481e7b3629",
-      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/6a0d981ab1a477ac3a5e96c33bb2e4b56fe5431f18899790708fc3481e7b3629.model"
-    },
-	  	  	    	    {
-      "id": "c735ddb2-ea82-4fa5-964f-cb8f7400a3c7",
-      "categoryId": "pets",
-      "apiGiveable": true,
-      "contributor": "Ogure4",
-      "name": "Анубис",
-      "source": "url",
-      "sourceFormat": "bedrock",
-      "price": 149,
-      "availableInGui": false,
-      "isLimited": false,
-      "locationRotation": {
-        "normal": {
-          "location": [0.75, -0.1, 0],
-          "rotation": [0, 0, 0],
-          "scale": [0.01, 0.01, 0.01]
+        {
+            "id": "c735ddb2-ea82-4fa5-964f-cb8f7400a3c7",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Анубис",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "2434ae6511bd94a8a8f2302b43e3446acab199ab5bc916523a412430e397f739",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/2434ae6511bd94a8a8f2302b43e3446acab199ab5bc916523a412430e397f739.model"
         },
-        "gui": {
-          "location": [0, 0, 0],
-          "rotation": [0, 180, 0],
-          "scale": [40, 40, 40]
-        }
-      },
-      "type": "PET",
-      "supportOptions": {
-        "SWAP_X": {
-          "location.x": true,
-          "scale.x": true,
-          "rotate.yaw": true
-        }
-      },
-      "conflictGroups": [
-        "pet"
-      ],
-      "hash256": "2434ae6511bd94a8a8f2302b43e3446acab199ab5bc916523a412430e397f739",
-      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/2434ae6511bd94a8a8f2302b43e3446acab199ab5bc916523a412430e397f739.model"
-    },
-	  	  	  	    	    {
-      "id": "bb9da646-1a22-48d7-a201-338892effe58",
-      "categoryId": "pets",
-      "apiGiveable": true,
-      "contributor": "Ogure4",
-      "name": "Монстр какой-т",
-      "source": "url",
-      "sourceFormat": "bedrock",
-      "price": 149,
-      "availableInGui": false,
-      "isLimited": false,
-      "locationRotation": {
-        "normal": {
-          "location": [0.75, -0.1, 0],
-          "rotation": [0, 0, 0],
-          "scale": [0.01, 0.01, 0.01]
+        {
+            "id": "bb9da646-1a22-48d7-a201-338892effe58",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Монстр какой-т",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "fe82004120434c8c170e692f0d03004c041b7df8bb4fe37133c7d284739a3b2f",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/fe82004120434c8c170e692f0d03004c041b7df8bb4fe37133c7d284739a3b2f.model"
         },
-        "gui": {
-          "location": [0, 0, 0],
-          "rotation": [0, 180, 0],
-          "scale": [40, 40, 40]
-        }
-      },
-      "type": "PET",
-      "supportOptions": {
-        "SWAP_X": {
-          "location.x": true,
-          "scale.x": true,
-          "rotate.yaw": true
-        }
-      },
-      "conflictGroups": [
-        "pet"
-      ],
-      "hash256": "fe82004120434c8c170e692f0d03004c041b7df8bb4fe37133c7d284739a3b2f",
-      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/fe82004120434c8c170e692f0d03004c041b7df8bb4fe37133c7d284739a3b2f.model"
-    },
-	  	  	  	  	    	    {
-      "id": "ec39c3d1-40c4-4bca-ab26-ebd51c4f64e1",
-      "categoryId": "pets",
-      "apiGiveable": true,
-      "contributor": "Ogure4",
-      "name": "Летающий шар",
-      "source": "url",
-      "sourceFormat": "bedrock",
-      "price": 149,
-      "availableInGui": false,
-      "isLimited": false,
-      "locationRotation": {
-        "normal": {
-          "location": [0.75, -0.1, 0],
-          "rotation": [0, 0, 0],
-          "scale": [0.01, 0.01, 0.01]
+        {
+            "id": "ec39c3d1-40c4-4bca-ab26-ebd51c4f64e1",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Летающий шар",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "f47cd729acbccf2dd8cac0759659285c5a867ed33ff51b42087308dac39c7bd1",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/f47cd729acbccf2dd8cac0759659285c5a867ed33ff51b42087308dac39c7bd1.model"
         },
-        "gui": {
-          "location": [0, 0, 0],
-          "rotation": [0, 180, 0],
-          "scale": [40, 40, 40]
-        }
-      },
-      "type": "PET",
-      "supportOptions": {
-        "SWAP_X": {
-          "location.x": true,
-          "scale.x": true,
-          "rotate.yaw": true
-        }
-      },
-      "conflictGroups": [
-        "pet"
-      ],
-      "hash256": "f47cd729acbccf2dd8cac0759659285c5a867ed33ff51b42087308dac39c7bd1",
-      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/f47cd729acbccf2dd8cac0759659285c5a867ed33ff51b42087308dac39c7bd1.model"
-    },
-	  	  	  	    	    {
-      "id": "11534d9a-5eaf-4184-8805-c9e40f87d62f",
-      "categoryId": "pets",
-      "apiGiveable": true,
-      "contributor": "Ogure4",
-      "name": "Синий скелет",
-      "source": "url",
-      "sourceFormat": "bedrock",
-      "price": 149,
-      "availableInGui": false,
-      "isLimited": false,
-      "locationRotation": {
-        "normal": {
-          "location": [0.75, -0.1, 0],
-          "rotation": [0, 0, 0],
-          "scale": [0.01, 0.01, 0.01]
+        {
+            "id": "11534d9a-5eaf-4184-8805-c9e40f87d62f",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Синий скелет",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "a4a12a44446cd4f85b71a143a2862957644e3b46d9bc24d7520f79f2e7760ad2",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/a4a12a44446cd4f85b71a143a2862957644e3b46d9bc24d7520f79f2e7760ad2.model"
         },
-        "gui": {
-          "location": [0, 0, 0],
-          "rotation": [0, 180, 0],
-          "scale": [40, 40, 40]
-        }
-      },
-      "type": "PET",
-      "supportOptions": {
-        "SWAP_X": {
-          "location.x": true,
-          "scale.x": true,
-          "rotate.yaw": true
-        }
-      },
-      "conflictGroups": [
-        "pet"
-      ],
-      "hash256": "a4a12a44446cd4f85b71a143a2862957644e3b46d9bc24d7520f79f2e7760ad2",
-      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/a4a12a44446cd4f85b71a143a2862957644e3b46d9bc24d7520f79f2e7760ad2.model"
-    },
-		    {
-      "id": "c1d5c451-f6e2-4ce4-bfbd-91de54a541eb",
-      "categoryId": "pets",
-      "apiGiveable": true,
-      "contributor": "Ogure4",
-      "name": "Церберус",
-      "source": "url",
-      "sourceFormat": "bedrock",
-      "price": 149,
-      "availableInGui": false,
-      "isLimited": false,
-      "locationRotation": {
-        "normal": {
-          "location": [0.75, 0, 0],
-          "rotation": [0, 0, 0],
-          "scale": [0.009,0.009,0.009]
+        {
+            "id": "c1d5c451-f6e2-4ce4-bfbd-91de54a541eb",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Церберус",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.009,
+                        0.009,
+                        0.009
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "9ca0dd35ccaf0b48981db3a32b2456835436d468cf641ab41888833bbe15f32d",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/9ca0dd35ccaf0b48981db3a32b2456835436d468cf641ab41888833bbe15f32d.model"
         },
-        "gui": {
-          "location": [0, 0, 0],
-          "rotation": [0, 180, 0],
-          "scale": [40, 40, 40]
-        }
-      },
-      "type": "PET",
-      "supportOptions": {
-        "SWAP_X": {
-          "location.x": true,
-          "scale.x": true,
-          "rotate.yaw": true
-        }
-      },
-      "conflictGroups": [
-        "pet"
-      ],
-      "hash256": "9ca0dd35ccaf0b48981db3a32b2456835436d468cf641ab41888833bbe15f32d",
-      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/9ca0dd35ccaf0b48981db3a32b2456835436d468cf641ab41888833bbe15f32d.model"
-    },
-	  		    {
-      "id": "10f8ba7f-35e1-4dd4-87ff-7a1edd53ecb4",
-      "categoryId": "pets",
-      "apiGiveable": true,
-      "contributor": "Ogure4",
-      "name": "Мопс",
-      "source": "url",
-      "sourceFormat": "bedrock",
-      "price": 149,
-      "availableInGui": false,
-      "isLimited": false,
-      "locationRotation": {
-        "normal": {
-          "location": [0.75, 0, 0],
-          "rotation": [0, 0, 0],
-          "scale": [0.025,0.025,0.025]
+        {
+            "id": "10f8ba7f-35e1-4dd4-87ff-7a1edd53ecb4",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Мопс",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.025,
+                        0.025,
+                        0.025
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "7df6cfd49c0f4c5fd37450c424c19f8dde24238160b89c886e8493352ef6757c",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/7df6cfd49c0f4c5fd37450c424c19f8dde24238160b89c886e8493352ef6757c.model"
         },
-        "gui": {
-          "location": [0, 0, 0],
-          "rotation": [0, 180, 0],
-          "scale": [40, 40, 40]
-        }
-      },
-      "type": "PET",
-      "supportOptions": {
-        "SWAP_X": {
-          "location.x": true,
-          "scale.x": true,
-          "rotate.yaw": true
-        }
-      },
-      "conflictGroups": [
-        "pet"
-      ],
-      "hash256": "7df6cfd49c0f4c5fd37450c424c19f8dde24238160b89c886e8493352ef6757c",
-      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/7df6cfd49c0f4c5fd37450c424c19f8dde24238160b89c886e8493352ef6757c.model"
-    },
-			    {
-      "id": "35fbb434-93f1-4918-b17c-41d0d779683a",
-      "categoryId": "pets",
-      "apiGiveable": true,
-      "contributor": "Ogure4",
-      "name": "vedma",
-      "source": "url",
-      "sourceFormat": "bedrock",
-      "price": 149,
-      "availableInGui": false,
-      "isLimited": false,
-      "locationRotation": {
-        "normal": {
-          "location": [0.75, -0.1, 0],
-          "rotation": [0, 0, 0],
-          "scale": [0.032, 0.032, 0.032]
+        {
+            "id": "35fbb434-93f1-4918-b17c-41d0d779683a",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "vedma",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.032,
+                        0.032,
+                        0.032
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "149b60f7b37d1cf3b44a590e7c4c26a0375a8c8505ed170ba12454b065b72520",
+            "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441500509910597792/149b60f7b37d1cf3b44a590e7c4c26a0375a8c8505ed170ba12454b065b72520.model?ex=69220577&is=6920b3f7&hm=cfc8225d9328661752e4ae403d8ccd6c7d04c6c537406499e740d0255c2c4d07&"
         },
-        "gui": {
-          "location": [0, 0, 0],
-          "rotation": [0, 180, 0],
-          "scale": [40, 40, 40]
-        }
-      },
-      "type": "PET",
-      "supportOptions": {
-        "SWAP_X": {
-          "location.x": true,
-          "scale.x": true,
-          "rotate.yaw": true
-        }
-      },
-      "conflictGroups": [
-        "pet"
-      ],
-      "hash256": "149b60f7b37d1cf3b44a590e7c4c26a0375a8c8505ed170ba12454b065b72520",
-      "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441500509910597792/149b60f7b37d1cf3b44a590e7c4c26a0375a8c8505ed170ba12454b065b72520.model?ex=69220577&is=6920b3f7&hm=cfc8225d9328661752e4ae403d8ccd6c7d04c6c537406499e740d0255c2c4d07&"
-    },
-    {
-      "id": "ef9e32dc-3458-475c-92f3-a5b0b6af9da8",
-      "categoryId": "pets",
-      "apiGiveable": true,
-      "contributor": "Ogure4",
-      "name": "lodka",
-      "source": "url",
-      "sourceFormat": "bedrock",
-      "price": 149,
-      "availableInGui": true,
-      "isLimited": false,
-      "locationRotation": {
-        "normal": {
-          "location": [0.75, -0.1, 0],
-          "rotation": [0, 0, 0],
-          "scale": [0.032, 0.032, 0.032]
+        {
+            "id": "ef9e32dc-3458-475c-92f3-a5b0b6af9da8",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "lodka",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": true,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.032,
+                        0.032,
+                        0.032
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "a1b9b4b6186ab485e1e1099253987f58ba0b72a86f438017759574ba2a532883",
+            "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441503441158668408/a1b9b4b6186ab485e1e1099253987f58ba0b72a86f438017759574ba2a532883.model?ex=69220832&is=6920b6b2&hm=9bc6f82321842dbf9b77d6456fd9df2c8924f9fcc26bf38dbde73056e66a437e&"
         },
-        "gui": {
-          "location": [0, 0, 0],
-          "rotation": [0, 180, 0],
-          "scale": [40, 40, 40]
+        {
+            "id": "c185471b-52bb-411f-b903-1d73ad69a590",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Тор",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "16b0e7797abcfef74e257446c3f4952f2dc71ff2206c6c431cecba04d5f220ff",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/16b0e7797abcfef74e257446c3f4952f2dc71ff2206c6c431cecba04d5f220ff.model"
         }
-      },
-      "type": "PET",
-      "supportOptions": {
-        "SWAP_X": {
-          "location.x": true,
-          "scale.x": true,
-          "rotate.yaw": true
-        }
-      },
-      "conflictGroups": [
-        "pet"
-      ],
-      "hash256": "a1b9b4b6186ab485e1e1099253987f58ba0b72a86f438017759574ba2a532883",
-      "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441503441158668408/a1b9b4b6186ab485e1e1099253987f58ba0b72a86f438017759574ba2a532883.model?ex=69220832&is=6920b6b2&hm=9bc6f82321842dbf9b77d6456fd9df2c8924f9fcc26bf38dbde73056e66a437e&"
-    }
-  ],
-  "graffities": {
-    "stickers": [
-	{
-  "contributor": "Ogure4",
-  "apiGiveable": true,
-  "availableInGui": false,
-  "perOnePurchase": 10,
-  "id": "e9ba4048-5403-49e5-ad9a-4186f5b12a03",
-  "frames": [
-    {
-      "atlas": 2,
-      "x": 0,
-      "y": 0,
-      "width": 640,
-      "height": 640
-    }
-        ]
-      },
-	  {
-  "contributor": "Ogure4",
-  "apiGiveable": true,
-  "availableInGui": false,
-  "perOnePurchase": 10,
-  "id": "b70c29b1-c64c-45ce-94c3-4cb299bbf5dd",
-  "frames": [
-    {
-      "atlas": 3,
-      "x": 0,
-      "y": 0,
-      "width": 1024,
-      "height": 1024
-    }
-        ]
-      }
     ],
-    "atlas": [
-      {
-        "id": 3,
-        "width": 1024,
-        "height": 1024,
-        "hash": "93253982a3456ad0296745d53d23c287033502e70ed158b04736d487af88e58b",
-        "url": "https://lelmam.github.io/Graffittilinks/forbot/93253982a3456ad0296745d53d23c287033502e70ed158b04736d487af88e58b.png"
-      },
-	  {
-        "id": 2,
-        "width": 640,
-        "height": 640,
-        "hash": "2890a8709403b442909ef8da8940a4802f00c4041e1c27cff0af2bb01fd65f73",
-        "url": "https://lelmam.github.io/Graffittilinks/forbot/2890a8709403b442909ef8da8940a4802f00c4041e1c27cff0af2bb01fd65f73.png"
-      }
-    ]
-  },
-  "categories": [],
-  "emotions": [],
-  "lootBoxes": []
-
+    "graffities": {
+        "stickers": [
+            {
+                "contributor": "Ogure4",
+                "apiGiveable": true,
+                "availableInGui": false,
+                "perOnePurchase": 10,
+                "id": "e9ba4048-5403-49e5-ad9a-4186f5b12a03",
+                "frames": [
+                    {
+                        "atlas": 2,
+                        "x": 0,
+                        "y": 0,
+                        "width": 640,
+                        "height": 640
+                    }
+                ]
+            },
+            {
+                "contributor": "Ogure4",
+                "apiGiveable": true,
+                "availableInGui": false,
+                "perOnePurchase": 10,
+                "id": "b70c29b1-c64c-45ce-94c3-4cb299bbf5dd",
+                "frames": [
+                    {
+                        "atlas": 3,
+                        "x": 0,
+                        "y": 0,
+                        "width": 1024,
+                        "height": 1024
+                    }
+                ]
+            }
+        ],
+        "atlas": [
+            {
+                "id": 3,
+                "width": 1024,
+                "height": 1024,
+                "hash": "93253982a3456ad0296745d53d23c287033502e70ed158b04736d487af88e58b",
+                "url": "https://lelmam.github.io/Graffittilinks/forbot/93253982a3456ad0296745d53d23c287033502e70ed158b04736d487af88e58b.png"
+            },
+            {
+                "id": 2,
+                "width": 640,
+                "height": 640,
+                "hash": "2890a8709403b442909ef8da8940a4802f00c4041e1c27cff0af2bb01fd65f73",
+                "url": "https://lelmam.github.io/Graffittilinks/forbot/2890a8709403b442909ef8da8940a4802f00c4041e1c27cff0af2bb01fd65f73.png"
+            }
+        ]
+    },
+    "categories": [],
+    "emotions": [],
+    "lootBoxes": []
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
