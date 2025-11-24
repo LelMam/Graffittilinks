@@ -975,6 +975,67 @@
             ],
             "hash256": "89287bed5291226faacd806780201d16784e351b89e483050a38547a85d3678d",
             "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/89287bed5291226faacd806780201d16784e351b89e483050a38547a85d3678d.model"
+        },
+        {
+            "id": "a4fc8c97-d1e4-435c-8210-65d9b3c1005f",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Китцуне лиса",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.05,
+                        0.05,
+                        0.05
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "b992ca0afc673cb95d67231193bac9002219b9354538999dd19ff4d430989494",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/b992ca0afc673cb95d67231193bac9002219b9354538999dd19ff4d430989494.model"
         }
     ],
     "graffities": {
