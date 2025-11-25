@@ -1088,8 +1088,7 @@
             "supportOptions": {
                 "SWAP_X": {
                     "location.x": true,
-                    "scale.x": true,
-                    "rotate.yaw": true
+                    "scale.x": true
                 }
             },
             "conflictGroups": [
