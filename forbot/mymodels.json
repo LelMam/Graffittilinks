@@ -1036,6 +1036,67 @@
             ],
             "hash256": "b992ca0afc673cb95d67231193bac9002219b9354538999dd19ff4d430989494",
             "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/b992ca0afc673cb95d67231193bac9002219b9354538999dd19ff4d430989494.model"
+        },
+        {
+            "id": "360e4faa-d710-462e-b1b5-4ff79c76df16",
+            "categoryId": "admin",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "ПОСОХ БАНА",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 99,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        1.0,
+                        1.0,
+                        1.0
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "LEFT_ARM",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "back"
+            ],
+            "hash256": "02fc48fa0d65959feda1a1e91009e6d5d68020028209dd254855166c28745ced",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/02fc48fa0d65959feda1a1e91009e6d5d68020028209dd254855166c28745ced.model"
         }
     ],
     "graffities": {
