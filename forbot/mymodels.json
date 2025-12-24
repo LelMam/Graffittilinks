@@ -1336,28 +1336,43 @@
             "price": 149,
             "availableInGui": false,
             "isLimited": false,
+            "hidePartBody": [
+                "HEAD",
+                "HEAD_WEAR",
+                "BODY",
+                "BODY_WEAR",
+                "LEFT_ARM",
+                "LEFT_ARM_WEAR",
+                "RIGHT_ARM",
+                "RIGHT_ARM_WEAR",
+                "LEFT_LEG",
+                "LEFT_LEG_WEAR",
+                "RIGHT_LEG",
+                "RIGHT_LEG_WEAR",
+                "CAPE"
+            ],
             "locationRotation": {
                 "normal": {
                     "location": [
-                        0.75,
-                        -0.1,
+                        0,
+                        1.5,
                         0
                     ],
                     "rotation": [
                         0,
                         0,
-                        0
+                        180
                     ],
                     "scale": [
-                        0.01,
-                        0.01,
-                        0.01
+                        0.055,
+                        -0.055,
+                        0.055
                     ]
                 },
                 "gui": {
                     "location": [
                         0,
-                        0,
+                        11.4,
                         0
                     ],
                     "rotation": [
@@ -1366,9 +1381,9 @@
                         0
                     ],
                     "scale": [
-                        40,
-                        40,
-                        40
+                        35,
+                        35,
+                        35
                     ]
                 }
             },
