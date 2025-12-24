@@ -1427,42 +1427,18 @@
                 "RIGHT_LEG_WEAR",
                 "CAPE"
             ],
-            "locationRotation": {
-                "normal": {
-                    "location": [
-                        0,
-                        1.5,
-                        0
-                    ],
-                    "rotation": [
-                        0,
-                        0,
-                        180
-                    ],
-                    "scale": [
-                        0.055,
-                        -0.055,
-                        0.055
-                    ]
-                },
-                "gui": {
-                    "location": [
-                        0,
-                        11.4,
-                        0
-                    ],
-                    "rotation": [
-                        0,
-                        180,
-                        0
-                    ],
-                    "scale": [
-                        35,
-                        35,
-                        35
-                    ]
-                }
-            },
+      "locationRotation": {
+        "normal": {
+          "location": [0, 1.22, 0],
+          "rotation": [0, 0, 180],
+          "scale": [0.055, -0.055, 0.055]
+        },
+        "gui": {
+          "location": [0, 11.4, 0],
+          "rotation": [0, 180, 0],
+          "scale": [35, 35, 35]
+        }
+      },
             "type": "MOUNT",
             "supportOptions": {
                 "SWAP_X": {
@@ -1474,8 +1450,8 @@
             "conflictGroups": [
                 "back"
             ],
-            "hash256": "da54d4142710e32eebfbba1230ce8b36b0bc4631f95cccfde8b6a089526dfcf6",
-            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/da54d4142710e32eebfbba1230ce8b36b0bc4631f95cccfde8b6a089526dfcf6.model"
+            "hash256": "a7ba281ca59b250ed7862e5df63dd65b0624db864263b947c268f7c47dac2797",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/a7ba281ca59b250ed7862e5df63dd65b0624db864263b947c268f7c47dac2797.model"
         }
     ],
     "graffities": {
