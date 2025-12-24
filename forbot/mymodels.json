@@ -1184,7 +1184,7 @@
             "price": 1,
             "availableInGui": false,
             "isLimited": false,
-                        "hidePartBody": [
+            "hidePartBody": [
                 "HEAD",
                 "HEAD_WEAR",
                 "BODY",
@@ -1199,18 +1199,42 @@
                 "RIGHT_LEG_WEAR",
                 "CAPE"
             ],
-      "locationRotation": {
-        "normal": {
-          "location": [0, 1.5, 0],
-          "rotation": [0, 0, 0],
-          "scale": [0.055, -0.055, 0.055]
-        },
-        "gui": {
-          "location": [0, 11.4, 0],
-          "rotation": [0, 180, 0],
-          "scale": [35, 35, 35]
-        }
-      },
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0,
+                        1.5,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.055,
+                        -0.055,
+                        0.055
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        11.4,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        35,
+                        35,
+                        35
+                    ]
+                }
+            },
             "type": "MOUNT",
             "supportOptions": {
                 "SWAP_X": {
@@ -1224,6 +1248,67 @@
             ],
             "hash256": "eb72d72a8da4b35edb16e13b2a255d1dc134b6fe213433f7ca0186416a3c7f3c",
             "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/eb72d72a8da4b35edb16e13b2a255d1dc134b6fe213433f7ca0186416a3c7f3c.model"
+        },
+        {
+            "id": "32ce1f5d-194c-4564-98a9-6b17b3c2badc",
+            "categoryId": "admin",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "xyetaanim3",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 1,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "MOUNT",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "back"
+            ],
+            "hash256": "3fc85b67feb772a410c7a4711800649e6341a9a5d04988c8010f060f229fdb09",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/3fc85b67feb772a410c7a4711800649e6341a9a5d04988c8010f060f229fdb09.model"
         }
     ],
     "graffities": {
