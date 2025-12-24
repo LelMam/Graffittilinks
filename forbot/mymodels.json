@@ -1400,6 +1400,67 @@
             ],
             "hash256": "2d93ab4c42a5b9c242deb60b6afd4b6539eaf40d5aed6dd7b41966ec0dbcddcf",
             "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/2d93ab4c42a5b9c242deb60b6afd4b6539eaf40d5aed6dd7b41966ec0dbcddcf.model"
+        },
+        {
+            "id": "95b7fd12-feb3-499f-aeeb-1e9e68b1afa4",
+            "categoryId": "admin",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "hoverboardanim",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "MOUNT",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "back"
+            ],
+            "hash256": "da54d4142710e32eebfbba1230ce8b36b0bc4631f95cccfde8b6a089526dfcf6",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/da54d4142710e32eebfbba1230ce8b36b0bc4631f95cccfde8b6a089526dfcf6.model"
         }
     ],
     "graffities": {
