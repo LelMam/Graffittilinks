@@ -1099,7 +1099,7 @@
         },
         {
             "id": "793f4953-fb71-459a-aadf-530fa6ddb6d2",
-            "categoryId": "MOUNT",
+            "categoryId": "admin",
             "apiGiveable": true,
             "contributor": "Ogure4",
             "name": "animforxyeta",
@@ -1108,24 +1108,18 @@
             "price": 1,
             "availableInGui": false,
             "isLimited": false,
-            "locationRotation": {
-                "normal": {
-                    "location": [
-                        0.75,
-                        -0.1,
-                        0
-                    ],
-                    "rotation": [
-                        0,
-                        0,
-                        0
-                    ],
-                    "scale": [
-                        0.01,
-                        0.01,
-                        0.01
-                    ]
-                },
+      "locationRotation": {
+        "normal": {
+          "location": [0, 1.5, 0],
+          "rotation": [0, 0, 0],
+          "scale": [0.055, -0.055, 0.055]
+        },
+        "gui": {
+          "location": [0, 11.4, 0],
+          "rotation": [0, 180, 0],
+          "scale": [35, 35, 35]
+        }
+      },
                 "gui": {
                     "location": [
                         0,
@@ -1144,7 +1138,7 @@
                     ]
                 }
             },
-            "type": "BACK",
+            "type": "MOUNT",
             "supportOptions": {
                 "SWAP_X": {
                     "location.x": true,
