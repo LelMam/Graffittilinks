@@ -1108,6 +1108,21 @@
             "price": 1,
             "availableInGui": false,
             "isLimited": false,
+                  "hidePartBody": [
+        "HEAD",
+        "HEAD_WEAR",
+        "BODY",
+        "BODY_WEAR",
+        "LEFT_ARM",
+        "LEFT_ARM_WEAR",
+        "RIGHT_ARM",
+        "RIGHT_ARM_WEAR",
+        "LEFT_LEG",
+        "LEFT_LEG_WEAR",
+        "RIGHT_LEG",
+        "RIGHT_LEG_WEAR",
+        "CAPE"
+      ],
             "locationRotation": {
                     "normal": {
                       "location": [0, 1.5, 0],
