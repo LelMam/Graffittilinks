@@ -1096,6 +1096,67 @@
             ],
             "hash256": "02fc48fa0d65959feda1a1e91009e6d5d68020028209dd254855166c28745ced",
             "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/02fc48fa0d65959feda1a1e91009e6d5d68020028209dd254855166c28745ced.model"
+        },
+        {
+            "id": "793f4953-fb71-459a-aadf-530fa6ddb6d2",
+            "categoryId": "MOUNT",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "animforxyeta",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 1,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "BACK",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "back"
+            ],
+            "hash256": "efaf73cef2a3f0fb78b6f8127aeae6229d12a25d68290011dd9f442f2f8d76bb",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/efaf73cef2a3f0fb78b6f8127aeae6229d12a25d68290011dd9f442f2f8d76bb.model"
         }
     ],
     "graffities": {
