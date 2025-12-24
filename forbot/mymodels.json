@@ -1108,33 +1108,57 @@
             "price": 1,
             "availableInGui": false,
             "isLimited": false,
-                  "hidePartBody": [
-        "HEAD",
-        "HEAD_WEAR",
-        "BODY",
-        "BODY_WEAR",
-        "LEFT_ARM",
-        "LEFT_ARM_WEAR",
-        "RIGHT_ARM",
-        "RIGHT_ARM_WEAR",
-        "LEFT_LEG",
-        "LEFT_LEG_WEAR",
-        "RIGHT_LEG",
-        "RIGHT_LEG_WEAR",
-        "CAPE"
-      ],
+            "hidePartBody": [
+                "HEAD",
+                "HEAD_WEAR",
+                "BODY",
+                "BODY_WEAR",
+                "LEFT_ARM",
+                "LEFT_ARM_WEAR",
+                "RIGHT_ARM",
+                "RIGHT_ARM_WEAR",
+                "LEFT_LEG",
+                "LEFT_LEG_WEAR",
+                "RIGHT_LEG",
+                "RIGHT_LEG_WEAR",
+                "CAPE"
+            ],
             "locationRotation": {
-                    "normal": {
-                      "location": [0, 1.5, 0],
-                      "rotation": [0, 0, 0],
-                      "scale": [0.055, -0.055, 0.055]
-                    },
-                    "gui": {
-                      "location": [0, 11.4, 0],
-                      "rotation": [0, 180, 0],
-                      "scale": [35, 35, 35]
-                    }
-                  },
+                "normal": {
+                    "location": [
+                        0,
+                        1.5,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.055,
+                        -0.055,
+                        0.055
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        11.4,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        35,
+                        35,
+                        35
+                    ]
+                }
+            },
             "type": "MOUNT",
             "supportOptions": {
                 "SWAP_X": {
@@ -1148,6 +1172,67 @@
             ],
             "hash256": "efaf73cef2a3f0fb78b6f8127aeae6229d12a25d68290011dd9f442f2f8d76bb",
             "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1453451747858190519/efaf73cef2a3f0fb78b6f8127aeae6229d12a25d68290011dd9f442f2f8d76bb.model?ex=694d7fec&is=694c2e6c&hm=f47135de876bb352a123464892b8d213d9be37d0b52f2ade92229fc0c9419bff&"
+        },
+        {
+            "id": "071446ca-3fbc-4592-9f00-7ceaae25f767",
+            "categoryId": "admin",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "xyetaanim2",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 1,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.055,
+                        0.055,
+                        0.055
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "MOUNT",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "back"
+            ],
+            "hash256": "eb72d72a8da4b35edb16e13b2a255d1dc134b6fe213433f7ca0186416a3c7f3c",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/eb72d72a8da4b35edb16e13b2a255d1dc134b6fe213433f7ca0186416a3c7f3c.model"
         }
     ],
     "graffities": {
