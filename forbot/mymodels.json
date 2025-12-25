@@ -122,6 +122,67 @@
             "hash256": "c95cb3ccd0c05763d7a71bdfe4585591ca4546e5a027fda0e68e34851d5f9f75",
             "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441488244519735296/c95cb3ccd0c05763d7a71bdfe4585591ca4546e5a027fda0e68e34851d5f9f75.model?ex=6921fa0b&is=6920a88b&hm=46908eb0dd2ab7b0fecc2bc0160f82bc44539d3716b8b629c772fd286cda46b1&"
         },
+                        {
+            "id": "e7f3b8c2-4d1a-4f59-1b83-2c4f0f7de941",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "testbo2t",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.032,
+                        0.032,
+                        0.032
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "c95cb3ccd0c05763d7a71bdfe4585591ca4546e5a027fda0e68e34851d5f9f75",
+            "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441488244519735296/c95cb3ccd0c05763d7a71bdfe4585591ca4546e5a027fda0e68e34851d5f9f75.model?ex=6921fa0b&is=6920a88b&hm=46908eb0dd2ab7b0fecc2bc0160f82bc44539d3716b8b629c772fd286cda46b1&"
+        },
         {
             "id": "069e88ac-432b-4396-b324-a96b2690f7e3",
             "categoryId": "pets",
@@ -1569,5 +1630,138 @@
     },
     "categories": [],
     "emotions": [],
-    "lootBoxes": []
+    "lootBoxes": [
+            {
+      "id": "7dd091b9-0853-478b-a49d-276c01cd7313",
+      "name": "winter",
+      "availableInGui": true,
+      "expire": "2026-01-15T00:00:00.000+03:00",
+      "price": 129,
+      "awards": [
+        {
+          "elementId": "213ccdd4-b6d7-44ba-ba6d-083532ce8441",
+          "amount": 50,
+          "rarity": "UNCOMMON",
+          "chance": 15
+        },
+        {
+          "elementId": "213ccdd4-b6d7-44ba-ba6d-083532ce8443",
+          "amount": 50,
+          "rarity": "UNCOMMON",
+          "chance": 15
+        },
+        {
+          "elementId": "213ccdd4-b6d7-44ba-ba6d-083532ce8444",
+          "amount": 50,
+          "rarity": "UNCOMMON",
+          "chance": 15
+        },
+        {
+          "elementId": "213ccdd4-b6d7-44ba-ba6d-083532ce8446",
+          "amount": 50,
+          "rarity": "UNCOMMON",
+          "chance": 15
+        },
+        {
+          "elementId": "213ccdd4-b6d7-44ba-ba6d-083532ce8442",
+          "amount": 50,
+          "rarity": "LEGENDARY",
+          "chance": 7.5
+        },
+        {
+          "elementId": "213ccdd4-b6d7-44ba-ba6d-083532ce8445",
+          "amount": 50,
+          "rarity": "LEGENDARY",
+          "chance": 7.5
+        },
+        {
+          "elementId": "d3140df2-5d01-4d97-923b-1c9bde16d25e",
+          "rarity": "UNCOMMON",
+          "chance": 3.3
+        },
+        {
+          "elementId": "a6434f47-83f5-424b-9fe7-6f846314434e",
+          "rarity": "UNCOMMON",
+          "chance": 3.3
+        },
+        {
+          "elementId": "8ee24c9f-e899-4c49-baa7-e5012c4472bb",
+          "rarity": "UNCOMMON",
+          "chance": 3.3
+        },
+        {
+          "elementId": "f461cf15-22cb-4b14-9748-16890c97f4fb",
+          "rarity": "RARE",
+          "chance": 2.7
+        },
+        {
+          "elementId": "70715c2f-f994-4f85-a64d-a237f32871d2",
+          "rarity": "RARE",
+          "chance": 2.7
+        },
+        {
+          "elementId": "b9a1f33b-cdc9-47a9-8605-c2faf1d7c84d",
+          "rarity": "RARE",
+          "chance": 2.7
+        },
+        {
+          "elementId": "855a0cd0-b4f9-443d-8b84-db8bc7ec789b",
+          "rarity": "EPIC",
+          "chance": 1.7
+        },
+        {
+          "elementId": "b4123c7a-2dfa-44d0-ad55-dc1e49b2b6c5",
+          "rarity": "EPIC",
+          "chance": 1.7
+        },
+        {
+          "elementId": "aa438782-8dd9-40b6-a180-277b56cb0fd5",
+          "rarity": "EPIC",
+          "chance": 1.7
+        },
+        {
+          "elementId": "01bd0490-b692-4270-8ece-e47ae9581ea2",
+          "rarity": "LEGENDARY",
+          "chance": 0.75
+        },
+        {
+          "elementId": "319d8909-a81e-4bfd-bef5-dd69eeb42a9a",
+          "rarity": "LEGENDARY",
+          "chance": 0.75
+        },
+        {
+          "elementsId": [
+            "c4cb09fe-91cd-48a5-b4f8-8e72390a2b43",
+            "493e0151-ad52-4d65-abaa-f6400d9ab0d6",
+            "febe7640-7cfb-4bdc-9fc6-c191d9a7b344",
+            "114bd57b-93f4-43b8-bbbd-733fda767651",
+            "c2edc1b8-6b24-4d72-bcb4-e04fcc1c1c84",
+            "e31b073f-6ea8-4b2b-a93d-e5642e90e0df",
+            "2a67aff3-511f-46b1-b2a2-5668b2aeae01",
+            "6ecfeeda-a489-4025-a42d-fa234a3b3c00",
+            "855c1aab-0405-450c-b63a-5cc10a4ca8be",
+            "0bdcf4c7-679d-4f96-827d-c577991171e2",
+            "8b1e1ee8-a489-41eb-8a9f-3b8fdda68f6b",
+            "b36df37f-32a6-4e68-84f2-e37585a7b7fb",
+            "584c836d-1276-44aa-be3f-10daef19ba69",
+            "50ff4e0f-afe2-42db-bbe9-0b736b7d5b2d",
+            "cd9b2b87-ab38-49aa-9a3b-db9da459d1f1",
+            "d2691ca2-177a-41b2-80bc-d3e69972a1de",
+            "5eef2d7d-30cd-4e55-9ee9-6b3483207321",
+            "cc513c5f-6f6e-4dd8-a5d0-0887c53f9c5e",
+            "34249b3b-32eb-481b-bd48-cb4a738c61ec",
+            "8c70b103-9f8b-4155-9203-e487b633cfe3"
+          ],
+          "rarity": "MYTHICAL",
+          "chance": 0.5
+        }
+      ],
+      "background_url": "https://webdata.c7x.dev/client/p13n/f8c517448f0b26a741ac049b6e4195204b6b8fea78f51c3066a9e4a268c871f7.png",
+      "background_hash": "f8c517448f0b26a741ac049b6e4195204b6b8fea78f51c3066a9e4a268c871f7",
+      "background_blur_url": "https://webdata.c7x.dev/client/p13n/eb0c3e0f048327fe92e1d0a0e9cbc8b26047e836a99584f0f9473622606aeb75.png",
+      "background_blur_hash": "eb0c3e0f048327fe92e1d0a0e9cbc8b26047e836a99584f0f9473622606aeb75",
+      "hash": "29ecddefa83ccc95de7326ac2b4e09953878acc4e3401ae85cac640b922ee882",
+      "sourcePath": "https://webdata.c7x.dev/client/p13n/29ecddefa83ccc95de7326ac2b4e09953878acc4e3401ae85cac640b922ee882.model"
+    }
+    ]
 }
