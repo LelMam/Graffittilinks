@@ -1,66 +1,6 @@
 {
     "list": [
-        {
-            "id": "e7f3b8c2-4d1a-4f59-9b83-2c4f0f7de912",
-            "categoryId": "прогагей",
-            "apiGiveable": true,
-            "contributor": "Ogure4",
-            "name": "TRUMP",
-            "source": "url",
-            "sourceFormat": "bedrock",
-            "price": 149,
-            "availableInGui": false,
-            "isLimited": false,
-            "locationRotation": {
-                "normal": {
-                    "location": [
-                        0.75,
-                        -0.1,
-                        0
-                    ],
-                    "rotation": [
-                        0,
-                        0,
-                        0
-                    ],
-                    "scale": [
-                        0.032,
-                        0.032,
-                        0.032
-                    ]
-                },
-                "gui": {
-                    "location": [
-                        0,
-                        0,
-                        0
-                    ],
-                    "rotation": [
-                        0,
-                        180,
-                        0
-                    ],
-                    "scale": [
-                        40,
-                        40,
-                        40
-                    ]
-                }
-            },
-            "type": "PET",
-            "supportOptions": {
-                "SWAP_X": {
-                    "location.x": true,
-                    "scale.x": true,
-                    "rotate.yaw": true
-                }
-            },
-            "conflictGroups": [
-                "pet"
-            ],
-            "hash256": "c95cb3ccd0c05763d7a71bdfe4585591ca4546e5a027fda0e68e34851d5f9f75",
-            "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441488244519735296/c95cb3ccd0c05763d7a71bdfe4585591ca4546e5a027fda0e68e34851d5f9f75.model?ex=6921fa0b&is=6920a88b&hm=46908eb0dd2ab7b0fecc2bc0160f82bc44539d3716b8b629c772fd286cda46b1&"
-        },
+
                 {
             "id": "e7f3b8c2-4d1a-4f59-9b83-2c4f0f7de911",
             "categoryId": "pets",
