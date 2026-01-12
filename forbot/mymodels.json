@@ -1427,18 +1427,42 @@
                 "RIGHT_LEG_WEAR",
                 "CAPE"
             ],
-      "locationRotation": {
-        "normal": {
-          "location": [0, 1.22, 0],
-          "rotation": [0, 0, 180],
-          "scale": [0.055, -0.055, 0.055]
-        },
-        "gui": {
-          "location": [0, 11.4, 0],
-          "rotation": [0, 180, 0],
-          "scale": [35, 35, 35]
-        }
-      },
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0,
+                        1.22,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        180
+                    ],
+                    "scale": [
+                        0.055,
+                        -0.055,
+                        0.055
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        11.4,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        35,
+                        35,
+                        35
+                    ]
+                }
+            },
             "type": "MOUNT",
             "supportOptions": {
                 "SWAP_X": {
@@ -1452,6 +1476,67 @@
             ],
             "hash256": "4b3d1bb4115dc78da3c23439a5d9e9985088a715313ac3bd98f0a976d369d5d1",
             "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/4b3d1bb4115dc78da3c23439a5d9e9985088a715313ac3bd98f0a976d369d5d1.model"
+        },
+        {
+            "id": "9dcadb57-a599-48a4-8277-2bfe0f3a065c",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "xyeta42",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 1,
+            "availableInGui": true,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.032,
+                        0.032,
+                        0.032
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "33ba4f390a0c5522eaeaf934d65a90e06a79a7d06b20bf518e99d9f32087067e",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/33ba4f390a0c5522eaeaf934d65a90e06a79a7d06b20bf518e99d9f32087067e.model"
         }
     ],
     "graffities": {
