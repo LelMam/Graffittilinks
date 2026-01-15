@@ -1794,23 +1794,11 @@
             "availableInGui": false,
             "isLimited": false,
             "locationRotation": {
-                "normal": {
-                    "location": [
-                        0.75,
-                        -0.1,
-                        0
-                    ],
-                    "rotation": [
-                        0,
-                        0,
-                        0
-                    ],
-                    "scale": [
-                        0.01,
-                        0.01,
-                        0.01
-                    ]
-                },
+        "normal": {
+          "location": [0, 1.62, 0],
+          "rotation": [0, 0, 0],
+          "scale": [0.065, 0.065, 0.065]
+        },
                 "gui": {
                     "location": [
                         0,
@@ -1832,9 +1820,7 @@
             "type": "BODY",
             "supportOptions": {
                 "SWAP_X": {
-                    "location.x": true,
-                    "scale.x": true,
-                    "rotate.yaw": true
+
                 }
             },
             "conflictGroups": [
