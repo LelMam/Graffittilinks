@@ -61,6 +61,37 @@
             "hash256": "c95cb3ccd0c05763d7a71bdfe4585591ca4546e5a027fda0e68e34851d5f9f75",
             "sourcePath": "https://cdn.discordapp.com/attachments/1309858493636808735/1441488244519735296/c95cb3ccd0c05763d7a71bdfe4585591ca4546e5a027fda0e68e34851d5f9f75.model?ex=6921fa0b&is=6920a88b&hm=46908eb0dd2ab7b0fecc2bc0160f82bc44539d3716b8b629c772fd286cda46b1&"
         },
+          {
+      "id": "ee922af6-ec70-49ee-b0bf-71982e229cb7",
+      "categoryId": "backpack",
+      "apiGiveable": true,
+      "contributor": "dadada",
+      "name": "xyeta",
+      "source": "url",
+      "sourceFormat": "bedrock",
+      "price": 99,
+      "availableInGui": false,
+      "isLimited": true,
+      "locationRotation": {
+        "normal": {
+          "location": [-0.1, 1.2, 0.18],
+          "rotation": [0, 0, 15],
+          "scale": [0.0625, 0.0625, 0.0625]
+        },
+        "gui": {
+          "location": [0, 0, 0],
+          "rotation": [0, 180, 0],
+          "scale": [40, 40, 40]
+        }
+      },
+      "type": "WINGS",
+      "conflictGroups": [
+        "backpack"
+      ],
+      "createdTime": 1690221790743,
+      "hash256": "b61ee13b85118c1875b95f680a54c9d56c2780cccc08a9f6872fba4aa35ed7af",
+      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/b61ee13b85118c1875b95f680a54c9d56c2780cccc08a9f6872fba4aa35ed7af.model"
+    },
         {
             "id": "069e88ac-432b-4396-b324-a96b2690f7e3",
             "categoryId": "pets",
