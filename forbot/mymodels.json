@@ -1610,48 +1610,22 @@
             "price": 149,
             "availableInGui": false,
             "isLimited": false,
-            "locationRotation": {
-                "normal": {
-                    "location": [
-                        0.75,
-                        -0.1,
-                        0
-                    ],
-                    "rotation": [
-                        0,
-                        0,
-                        0
-                    ],
-                    "scale": [
-                        0.01,
-                        0.01,
-                        0.01
-                    ]
-                },
-                "gui": {
-                    "location": [
-                        0,
-                        0,
-                        0
-                    ],
-                    "rotation": [
-                        0,
-                        180,
-                        0
-                    ],
-                    "scale": [
-                        40,
-                        40,
-                        40
-                    ]
-                }
-            },
+      "locationRotation": {
+        "normal": {
+          "location": [0, 0.65, 0.25],
+          "rotation": [0, 0, 30],
+          "scale": [-0.042, 0.042, 0.042]
+        },
+        "gui": {
+          "location": [0, 0, 0],
+          "rotation": [0, 180, 0],
+          "scale": [40, 40, 40]
+        }
+      },
             "type": "BODY",
             "supportOptions": {
                 "SWAP_X": {
-                    "location.x": true,
-                    "scale.x": true,
-                    "rotate.yaw": true
+
                 }
             },
             "conflictGroups": [
