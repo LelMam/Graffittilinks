@@ -1659,6 +1659,67 @@
             ],
             "hash256": "b61ee13b85118c1875b95f680a54c9d56c2780cccc08a9f6872fba4aa35ed7af",
             "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/b61ee13b85118c1875b95f680a54c9d56c2780cccc08a9f6872fba4aa35ed7af.model"
+        },
+        {
+            "id": "5a6214bc-f774-466f-89e4-b995bb3d8565",
+            "categoryId": "hat",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Шляпа Мага",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "HAT",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "hat"
+            ],
+            "hash256": "31fa8a2a75d823f48c2e51d649384d546e123452ed090b798d84071b4aa744f0",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/31fa8a2a75d823f48c2e51d649384d546e123452ed090b798d84071b4aa744f0.model"
         }
     ],
     "graffities": {
