@@ -1750,9 +1750,9 @@
                         0
                     ],
                     "scale": [
-                        0.01,
-                        0.01,
-                        0.01
+                        0.015,
+                        0.015,
+                        0.015
                     ]
                 },
                 "gui": {
@@ -1774,13 +1774,6 @@
                 }
             },
             "type": "PET",
-            "supportOptions": {
-                "SWAP_X": {
-                    "location.x": true,
-                    "scale.x": true,
-                    "rotate.yaw": true
-                }
-            },
             "conflictGroups": [
                 "pet"
             ],
