@@ -1781,6 +1781,67 @@
             ],
             "hash256": "3b8b2c00898c7332ea8f497f094cddaeed713c3eeeebf7b07f3bc9656e74976f",
             "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/3b8b2c00898c7332ea8f497f094cddaeed713c3eeeebf7b07f3bc9656e74976f.model"
+        },
+        {
+            "id": "46c8b7aa-f04c-4e7c-a2cb-81db2bfaff01",
+            "categoryId": "body",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "Лампа джина",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "BODY",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "back"
+            ],
+            "hash256": "94e96b56ef27fe332101918656ac5d9a5ea91fc68875ccc2f3edef42f5596674",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/94e96b56ef27fe332101918656ac5d9a5ea91fc68875ccc2f3edef42f5596674.model"
         }
     ],
     "graffities": {
