@@ -2005,67 +2005,120 @@
             "hash256": "90cf555de715fbe984fcdf8658d4ad48561303025f09b15227cb031a1e2c66c5",
             "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/90cf555de715fbe984fcdf8658d4ad48561303025f09b15227cb031a1e2c66c5.model"
         },
-        {
-            "id": "1d6feb83-e222-4453-a683-ba3f047d8fef",
-            "categoryId": "pets",
-            "apiGiveable": true,
-            "contributor": "Ogure4",
-            "name": "111111",
-            "source": "url",
-            "sourceFormat": "bedrock",
-            "price": 149,
-            "availableInGui": false,
-            "isLimited": false,
-            "locationRotation": {
-                "normal": {
-                    "location": [
-                        0.75,
-                        -0.1,
-                        0
-                    ],
-                    "rotation": [
-                        0,
-                        0,
-                        0
-                    ],
-                    "scale": [
-                        0.02,
-                        0.02,
-                        0.02
-                    ]
-                },
-                "gui": {
-                    "location": [
-                        0,
-                        0,
-                        0
-                    ],
-                    "rotation": [
-                        0,
-                        180,
-                        0
-                    ],
-                    "scale": [
-                        40,
-                        40,
-                        40
-                    ]
-                }
-            },
-            "type": "PET",
-            "supportOptions": {
-                "SWAP_X": {
-                    "location.x": true,
-                    "scale.x": true,
-                    "rotate.yaw": true
-                }
-            },
-            "conflictGroups": [
-                "pet"
-            ],
-            "hash256": "4bfc29eece47476498bde9ee54809c9800c41fd0abc744f5f8c431623ffdaac4",
-            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/4bfc29eece47476498bde9ee54809c9800c41fd0abc744f5f8c431623ffdaac4.model"
+    {
+      "id": "ea6ed36a-4dd1-4731-81c5-94c8a27f811f",
+      "apiGiveable": false,
+      "categoryId": "pets",
+      "contributor": "Dionis",
+      "name": "Медовая палочка",
+      "rarity": "AWARD",
+      "source": "url",
+      "sourceFormat": "bedrock",
+      "price": 299,
+      "availableInGui": false,
+      "isLimited": true,
+      "type": "PET",
+      "supportOptions": {
+        "SWAP_X": {
+          "location.x": true,
+          "scale.x": true,
+          "rotate.yaw": true
+        }
+      },
+      "locationRotation": {
+        "normal": {
+          "location": [0.84, 0, 0.05],
+          "rotation": [0, 0, 0],
+          "scale": [-0.02, 0.02, 0.02]
         },
+        "gui": {
+          "location": [0, 9.6, 0],
+          "rotation": [-160, 0, 0],
+          "scale": [-1, 1, 1]
+        }
+      },
+      "conflictGroups": [
+        "pet"
+      ],
+      "hash256": "ffb4a796fec2838d7d26b53a3255c6b1c5348523b09fcd42aaa7a688ba056056",
+      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/ffb4a796fec2838d7d26b53a3255c6b1c5348523b09fcd42aaa7a688ba056056.model"
+    },
+            {
+      "id": "be4e3963-d57d-478d-b7ec-bd87718b090y",
+      "apiGiveable": false,
+      "categoryId": "pets",
+      "contributor": "Dionis",
+      "name": "Медовая палочка",
+      "rarity": "AWARD",
+      "source": "url",
+      "sourceFormat": "bedrock",
+      "price": 299,
+      "availableInGui": false,
+      "isLimited": true,
+      "type": "PET",
+      "supportOptions": {
+        "SWAP_X": {
+          "location.x": true,
+          "scale.x": true,
+          "rotate.yaw": true
+        }
+      },
+      "locationRotation": {
+        "normal": {
+          "location": [0.84, 0, 0.05],
+          "rotation": [0, 0, 0],
+          "scale": [-0.02, 0.02, 0.02]
+        },
+        "gui": {
+          "location": [0, 9.6, 0],
+          "rotation": [-160, 0, 0],
+          "scale": [-1, 1, 1]
+        }
+      },
+      "conflictGroups": [
+        "pet"
+      ],
+      "hash256": "794156f23401b5fcc88756a956549bb5d6a6ec8d9fafb222ea5fe312918632db",
+      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/794156f23401b5fcc88756a956549bb5d6a6ec8d9fafb222ea5fe312918632db.model"
+    },
+            {
+      "id": "53cc2f08-0e40-4ab3-ae2e-c5dfb71943cg",
+      "apiGiveable": false,
+      "categoryId": "pets",
+      "contributor": "Dionis",
+      "name": "Медовая палочка",
+      "rarity": "AWARD",
+      "source": "url",
+      "sourceFormat": "bedrock",
+      "price": 299,
+      "availableInGui": false,
+      "isLimited": true,
+      "type": "PET",
+      "supportOptions": {
+        "SWAP_X": {
+          "location.x": true,
+          "scale.x": true,
+          "rotate.yaw": true
+        }
+      },
+      "locationRotation": {
+        "normal": {
+          "location": [0.84, 0, 0.05],
+          "rotation": [0, 0, 0],
+          "scale": [-0.02, 0.02, 0.02]
+        },
+        "gui": {
+          "location": [0, 9.6, 0],
+          "rotation": [-160, 0, 0],
+          "scale": [-1, 1, 1]
+        }
+      },
+      "conflictGroups": [
+        "pet"
+      ],
+      "hash256": "42426a817feac04318ba122793a359185cbec182796bfaec05b157939e72f287",
+      "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/42426a817feac04318ba122793a359185cbec182796bfaec05b157939e72f287.model"
+    },
         {
             "id": "16aedd5e-9e92-425a-bbc1-1c807305c58f",
             "categoryId": "pets",
