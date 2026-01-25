@@ -2006,7 +2006,7 @@
             "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/90cf555de715fbe984fcdf8658d4ad48561303025f09b15227cb031a1e2c66c5.model"
         },
     {
-      "id": "ea6ed36a-4dd1-4731-81c5-94c8a27f811f",
+      "id": "b2c4442a-42fe-4855-a4f6-6f66a9d69d24",
       "apiGiveable": false,
       "categoryId": "pets",
       "contributor": "Dionis",
@@ -2044,7 +2044,7 @@
       "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/ffb4a796fec2838d7d26b53a3255c6b1c5348523b09fcd42aaa7a688ba056056.model"
     },
             {
-      "id": "be4e3963-d57d-478d-b7ec-bd87718b090y",
+      "id": "0a3eb24b-cf00-4a3e-85e9-d4869ffe0464",
       "apiGiveable": false,
       "categoryId": "pets",
       "contributor": "Dionis",
@@ -2082,7 +2082,7 @@
       "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/794156f23401b5fcc88756a956549bb5d6a6ec8d9fafb222ea5fe312918632db.model"
     },
             {
-      "id": "53cc2f08-0e40-4ab3-ae2e-c5dfb71943cg",
+      "id": "4beda63c-c409-475a-b6fc-9e5b89a2efd6\n\n",
       "apiGiveable": false,
       "categoryId": "pets",
       "contributor": "Dionis",
@@ -2118,68 +2118,8 @@
       ],
       "hash256": "42426a817feac04318ba122793a359185cbec182796bfaec05b157939e72f287",
       "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/42426a817feac04318ba122793a359185cbec182796bfaec05b157939e72f287.model"
-    },
-        {
-            "id": "16aedd5e-9e92-425a-bbc1-1c807305c58f",
-            "categoryId": "pets",
-            "apiGiveable": true,
-            "contributor": "Ogure4",
-            "name": "llll",
-            "source": "url",
-            "sourceFormat": "bedrock",
-            "price": 149,
-            "availableInGui": false,
-            "isLimited": false,
-            "locationRotation": {
-                "normal": {
-                    "location": [
-                        0.75,
-                        -0.1,
-                        0
-                    ],
-                    "rotation": [
-                        0,
-                        0,
-                        0
-                    ],
-                    "scale": [
-                        0.01,
-                        0.01,
-                        0.01
-                    ]
-                },
-                "gui": {
-                    "location": [
-                        0,
-                        0,
-                        0
-                    ],
-                    "rotation": [
-                        0,
-                        180,
-                        0
-                    ],
-                    "scale": [
-                        40,
-                        40,
-                        40
-                    ]
-                }
-            },
-            "type": "PET",
-            "supportOptions": {
-                "SWAP_X": {
-                    "location.x": true,
-                    "scale.x": true,
-                    "rotate.yaw": true
-                }
-            },
-            "conflictGroups": [
-                "pet"
-            ],
-            "hash256": "654380ad52012fc5f12f9f4e01cbb01ef9b0b450af397d7175744076314a9143",
-            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/654380ad52012fc5f12f9f4e01cbb01ef9b0b450af397d7175744076314a9143.model"
-        }
+    }
+        
     ],
     "graffities": {
         "stickers": [
