@@ -2312,6 +2312,67 @@
             ],
             "hash256": "2e8236974a5720227c7013c948994744456bbff47578a902e7fef2f28b7ddb74",
             "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/2e8236974a5720227c7013c948994744456bbff47578a902e7fef2f28b7ddb74.model"
+        },
+        {
+            "id": "c5213192-24bc-44fc-a834-93ffcc1dd83d",
+            "categoryId": "pets",
+            "apiGiveable": true,
+            "contributor": "Ogure4",
+            "name": "testmesh",
+            "source": "url",
+            "sourceFormat": "bedrock",
+            "price": 149,
+            "availableInGui": false,
+            "isLimited": false,
+            "locationRotation": {
+                "normal": {
+                    "location": [
+                        0.75,
+                        -0.1,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "scale": [
+                        0.01,
+                        0.01,
+                        0.01
+                    ]
+                },
+                "gui": {
+                    "location": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "rotation": [
+                        0,
+                        180,
+                        0
+                    ],
+                    "scale": [
+                        40,
+                        40,
+                        40
+                    ]
+                }
+            },
+            "type": "PET",
+            "supportOptions": {
+                "SWAP_X": {
+                    "location.x": true,
+                    "scale.x": true,
+                    "rotate.yaw": true
+                }
+            },
+            "conflictGroups": [
+                "pet"
+            ],
+            "hash256": "ede5b204c32e8f94858f80097ff53e141f2e96d9815e118390098cf256f5ce49",
+            "sourcePath": "https://lelmam.github.io/Graffittilinks/forbot/ede5b204c32e8f94858f80097ff53e141f2e96d9815e118390098cf256f5ce49.model"
         }
     ],
     "graffities": {
